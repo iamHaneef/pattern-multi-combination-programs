@@ -1,6 +1,6 @@
 package Beginner_Interview_Question.Number_pattern_practise;
 
-public class Level_2_number_patt {
+public class number_patterns_intermediate {
 
 //    public static void main(String[] args) {
 //

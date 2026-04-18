@@ -2,7 +2,7 @@ package Beginner_Interview_Question.Number_pattern_practise;
 //Arrays.sort(points,(a,b) -> Integer.compare(a[1],b[1]));
 //        Arrays.sort(intervals,(a,b)->a[0]-b[0]);
 
-public class Level_1_number_patt {
+public class number_patterns_basic {
 
     /* public static void main(String[] args)
     {

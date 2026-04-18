@@ -1,6 +1,6 @@
 package Beginner_Interview_Question.Letter_Pattern;
 
-public class Level_1 {
+public class letter_patterns_collection {
 
     public static void main(String[] args)
     {
