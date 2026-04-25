@@ -1,20 +1,13 @@
-# ✨ Pattern Programs in Java
+# Pattern Programs in Java
+
+## 📌 Overview
 
 A collection of pattern programs implemented in Java, including star, number, and character patterns.  
 This repository focuses on improving logical thinking and mastering nested loops.
 
 ---
 
-## 📘 Overview
-
-Pattern programs are commonly used to practice:
-- Nested loops  
-- Control flow  
-- Problem-solving techniques  
-
----
-
-## Topics Covered
+## ⚡ Topics Covered
 
 ### Star Patterns
 - Right Triangle  
@@ -34,8 +27,23 @@ Pattern programs are commonly used to practice:
 
 ---
 
-## Purpose
+## 🛠️ Tech Stack
 
-- Strengthen programming logic  
-- Improve loop control and structure  
-- Prepare for interviews and coding exercises  
+- Java  
+
+---
+
+## 📂 Project Structure
+
+```bash
+pattern-programs-java/
+│
+├── (multiple pattern programs)
+└── README.md
+```
+
+---
+
+## 🚀 How to Run
+
+> Compile and run Java programs using `javac` and `java`.
